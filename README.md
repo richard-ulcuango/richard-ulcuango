@@ -65,6 +65,8 @@ I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, *
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="Wordpress logo"  />
 </div>
 
