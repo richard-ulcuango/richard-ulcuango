@@ -4,7 +4,7 @@
 
 I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, **Typescript**, and modern productivity tooling 💻. I love turning creative ideas into polished, high-performance products.
 
-### Why I Do It
+### What I Like
 
 - Technology fascinates me—programming, UX, automation—and I’m always learning 🤖.
 - I cultivate a mindset of **continuous improvement**: new habits, frameworks, systems.
