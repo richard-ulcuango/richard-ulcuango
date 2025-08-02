@@ -81,5 +81,5 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 
 ## Links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/richard-ulcuango/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@RichardUlcuango-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/richard-ulcuango/)
 
