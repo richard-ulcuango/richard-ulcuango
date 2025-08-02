@@ -1,15 +1,14 @@
-# Welcome, I'm Richard Ulcuango 👋
+# Hello, I'm Richard Ulcuango 👋
 
 ## About Me
 
-I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
+I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, **Typescript**, and modern productivity tooling 💻. I love turning creative ideas into polished, high-performance products.
 
-🌿 Trying to become a better person every day.
-</br>
-⌛ I enjoy personal development and productivity.
-</br>
-🫂 I enjoy working in teams and collaborating with other people.
-</br>
+### Why I Do It
+
+- Technology fascinates me—programming, UX, automation—and I’m always learning 🤖.
+- I cultivate a mindset of **continuous improvement**: new habits, frameworks, systems.
+- I thrive in teams: mentoring, brainstorming, pairing… together we build better.
 
 ### Web Developer
 
