@@ -53,8 +53,6 @@ I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, *
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
