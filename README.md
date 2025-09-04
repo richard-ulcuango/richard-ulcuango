@@ -12,7 +12,7 @@ I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, *
 
 ### Web Developer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=richard-ulcuango&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=richard-ulcuango&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
  <!-- <img src="https://raw.githubusercontent.com/richard-ulcuango/richard-ulcuango/output/snake.svg" alt="Snake animation" />
   
