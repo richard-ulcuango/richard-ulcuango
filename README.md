@@ -11,7 +11,7 @@ I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, *
 - I thrive in teams: mentoring, brainstorming, pairing… together we build better.
 
 ### Web Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=richard-ulcuango&theme=gotham&hide_border=true&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nu-roan.vercel.app?user=richard-ulcuango&theme=gotham&hide_border=true&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
 
  <!-- <img src="https://raw.githubusercontent.com/richard-ulcuango/richard-ulcuango/output/snake.svg" alt="Snake animation" />
   
