@@ -6,18 +6,13 @@ I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, *
 
 ### What I Like
 
-- Technology fascinates me—programming, UX, automation—and I’m always learning 🤖.
-- I cultivate a mindset of **continuous improvement**: new habits, frameworks, systems.
-- I thrive in teams: mentoring, brainstorming, pairing… together we build better.
+- I’m endlessly curious about technology—from programming and UX to automation and developer productivity.
+- I live by a mindset of continuous improvement—always refining habits, learning new frameworks, and experimenting with better systems
+- I thrive in collaborative environments: mentoring teammates, brainstorming ideas, and pairing to build something greater together.
 
 ### Web Developer
 [![GitHub Streak](https://github-readme-streak-stats-nu-roan.vercel.app?user=richard-ulcuango&theme=gotham&hide_border=true&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
 
- <!-- <img src="https://raw.githubusercontent.com/richard-ulcuango/richard-ulcuango/output/snake.svg" alt="Snake animation" />
-  
-  #### 🏆 GitHub Trophies
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=richard-ulcuango&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
-  -->
 
 ## Technologies:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,vue,pinia,html,css,tailwind,js,ts,git,github,nodejs,nuxt,express,nestjs,graphql,firebase,supabase,mongodb,redis,nextjs,docker,cloudflare,figma,vscode,vite,wordpress,nginx,vercel)](https://skillicons.dev)
