@@ -12,6 +12,7 @@ I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, *
 
 ### Web Developer
 [![GitHub Streak](https://github-readme-streak-stats-nu-roan.vercel.app?user=richard-ulcuango&theme=gotham&hide_border=true&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-kohl-theta-19.vercel.app/api/top-langs/?username=richard-ulcuango&layout=donut&hide_title=true)
 
 
 ## Technologies:
