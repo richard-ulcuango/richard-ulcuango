@@ -16,7 +16,7 @@ I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, *
 
 
 ## Technologies:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,vue,pinia,html,css,tailwind,js,ts,git,github,nodejs,nuxt,express,nestjs,graphql,firebase,supabase,mongodb,redis,nextjs,docker,cloudflare,figma,vscode,vite,wordpress,nginx,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,vue,angular,pinia,html,css,tailwind,js,ts,git,github,nodejs,nuxt,express,nestjs,graphql,firebase,supabase,mongodb,redis,nextjs,docker,cloudflare,figma,vscode,vite,wordpress,nginx,vercel)](https://skillicons.dev)
 
 
 ## Links:
