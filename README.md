@@ -2,13 +2,13 @@
 
 ## About Me
 
-I'm a **full-stack web developer** focused on **React**, **Vue**, **Nest.js**, **Typescript**, and modern productivity tooling 💻. I love turning creative ideas into polished, high-performance products.
+I'm a **Full-Stack Web Developer** focused on **React**, **Vue**, **NestJS**, **TypeScript**, and modern productivity tooling. I specialize in turning complex ideas into polished, high-performance, and scalable products.
 
-### What I Like
+### 🚀 My Approach & Philosophy
 
-- I’m endlessly curious about technology—from programming and UX to automation and developer productivity.
-- I live by a mindset of continuous improvement—always refining habits, learning new frameworks, and experimenting with better systems
-- I thrive in collaborative environments: mentoring teammates, brainstorming ideas, and pairing to build something greater together.
+- **Tech & Architecture:** I’m endlessly curious about technology—from modern UX and AI-driven solutions to automation and developer productivity.
+- **Continuous Improvement:** I live by a mindset of constant growth—always refining habits, learning new frameworks, and architecting better systems.
+- **Collaborative Leadership:** I thrive in team environments. Whether it's mentoring developers, guiding technical decisions, or pair programming, I love empowering teams to build greater things together.
 
 ### Web Developer
 [![GitHub Streak](https://github-readme-streak-stats-nu-roan.vercel.app?user=richard-ulcuango&theme=gotham&hide_border=true&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
